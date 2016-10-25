@@ -2,8 +2,6 @@
 	<br>
 	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
 	<br>
-	<br>
-	<br>
 </h1>
 
 > A curated list of a/b testing
@@ -15,8 +13,8 @@
 
 ## Email
 
+- [Mail Chimp](https://mailchimp.com/features/ab-testing/)
 - [Zoho Campaigns](https://www.zoho.com/campaigns/ab-testing.html)
-
 
 ## License
 
