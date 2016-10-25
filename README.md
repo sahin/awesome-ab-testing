@@ -4,7 +4,9 @@
 	<br>
 </h1>
 
-> A curated list of tools that make a/b testing easier
+# Awesome A/B Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A collection of awesome A/B Testing (https://github.com/sahin/awesome-ab-testing/) libraries, resources and shiny things.
 
 ## Contents
 
