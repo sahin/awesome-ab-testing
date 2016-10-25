@@ -4,7 +4,7 @@
 	<br>
 </h1>
 
-> A curated list of a/b testing
+> A curated list of tools that make a/b testing easier
 
 ## Contents
 
