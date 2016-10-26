@@ -12,7 +12,7 @@ A collection of awesome A/B Testing (https://github.com/sahin/awesome-ab-testing
 
 - [Ads](#ads)
 - [Email](#email)
-- [Landing Pages](#landing pages) 
+- [Landing Pages](#landing-pages) 
 
 # Ads
 - [Adespresso](https://adespresso.com/)
